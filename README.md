@@ -1,2 +1,2 @@
-# Ci-ncia-de-Dados-na-Educa-o
+# Ciencia-de-Dados-na-Educaçao
 projeto profissional de ciência de dados
