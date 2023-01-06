@@ -1,0 +1,4 @@
+INPUT_PATH = 'dados'
+OUTPUT_PATH = 'output'
+
+OUTPUT_AQUISITION_PATH = f'{OUTPUT_PATH}/aquisition'

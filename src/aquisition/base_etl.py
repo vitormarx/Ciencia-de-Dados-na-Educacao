@@ -13,7 +13,7 @@ class BaseETL(abc.ABC):
     _input_data: typing.Dict[str, pd.DataFrame]
     _output_data: typing.Dict[str, pd.DataFrame]
 
-    def __init__(self, input: str, output: str, crate_path: bool= True) -> None:
+    def __init__(self, input: str, output: str, create_path: bool= True) -> None:
         self.input_path = Path(input)
         self.output_path = Path(output)
 
